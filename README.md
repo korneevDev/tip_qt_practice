@@ -9,3 +9,8 @@
 - [Занятие 12. Разработка HTTP API на Node.js и Express](12_node_express.md)
 - [Занятие 13. PostgreSQL, тестирование и подготовка веб-приложения к запуску](13_postgresql_testing.md)
 - [Занятие 14. Контрольная работа №4. Система регистрации обращений](14_control_fullstack.md)
+
+# Методическая информация
+
+- Ссылка на репозиторий с лекциями [Репозиторий](https://github.com/dmgimatdinov/TIP-JS)
+- Ссылка на рекомендованный курс по JS [Репозиторий](https://github.com/dv0retsky/js-tutorial/tree/main)
